@@ -17,8 +17,7 @@
 <h3>
     <font color="#c9040a"> Usuários </font>
 </h3>
-<pre class="prettyprint">
-    <code class="lang-bsh">
+````js
     'use strict';
 
     import bcrypt from 'bcrypt-nodejs';
@@ -59,8 +58,7 @@
         (encodedPassword, password) => bcrypt.compareSync(this.password, encodedPassword);
 
     export default mongoose.model('User',_user);
-    </code>
-</pre>
+````
 
 <h3>
     <font color="#c9040a"> Clientes </font>
