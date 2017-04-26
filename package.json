@@ -1,0 +1,19 @@
+{
+  "name": "officesystem",
+  "version": "0.0.1",
+  "description": "sistema para controle no geral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hc3/OficceSystem.git"
+  },
+  "author": "hc3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hc3/OficceSystem/issues"
+  },
+  "homepage": "https://github.com/hc3/OficceSystem#readme"
+}
