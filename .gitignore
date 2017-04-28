@@ -5,3 +5,5 @@ node_modules/**/*
 src/client/vendor/**/*
 .idea/**
 .vscode/**
+src/client/blur-admin/bower_components/**/*
+src/client/blur-admin/node_modules/**/*
